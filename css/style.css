@@ -173,7 +173,8 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	background: url(../img/crop.png) no-repeat center top;
+	/*background: url(../img/intro-bg.jpg) no-repeat center top;*/
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -661,8 +662,8 @@ section {
 	padding: 120px 0;
 }
 header .intro-text {
-	padding-top: 300px;
-	padding-bottom: 200px;
+	padding-top: 400px;
+	padding-bottom: 100px;
 }
 .timeline:before {
 	left: 50%;
