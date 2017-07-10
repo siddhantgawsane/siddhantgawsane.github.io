@@ -44,7 +44,7 @@ a:hover, a:focus {
 	color: #7bc3d1;
 }
 ul, ol {
-	list-style: none;
+	/*list-style: none;*/
 }
 .clearfix:after {
 	visibility: hidden;
@@ -676,7 +676,7 @@ header .intro-text {
 	float: left;
 	width: 41%;
 	padding: 0 20px 20px 30px;
-	text-align: right;
+	/*text-align: right;*/
 }
 .timeline>li .timeline-image {
 	left: 50%;
